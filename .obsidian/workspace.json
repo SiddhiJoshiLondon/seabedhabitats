@@ -11,14 +11,17 @@
             "id": "40184a401e6d546a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": "seabedhabitats",
-                "bFile": "seabedhabitats",
-                "aRef": ""
+                "file": "Day out in Cornwall.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 350,
+                  "zoom": -1.029665782207899
+                }
               },
-              "icon": "diff",
-              "title": "Diff: seabedhabitats"
+              "icon": "lucide-layout-dashboard",
+              "title": "Day out in Cornwall"
             }
           }
         ]
@@ -178,11 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4679d2a62c0d7f6",
+  "active": "40184a401e6d546a",
   "lastOpenFiles": [
+    "seabedhabitats/README.md",
     "README.md",
     "Day out in Cornwall.canvas",
-    "seabedhabitats/README.md",
     "MarineDiscovery.jpg",
     "Dolphins.mp4",
     "seabedhabitats",
