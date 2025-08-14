@@ -11,10 +11,12 @@
             "id": "40184a401e6d546a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "MarineDiscovery.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "MarineDiscovery"
             }
           }
         ]
@@ -108,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day out in Cornwall.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Day out in Cornwall"
             }
           },
           {
@@ -136,23 +139,35 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Day out in Cornwall.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Day out in Cornwall"
+            }
+          },
+          {
+            "id": "a4679d2a62c0d7f6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,5 +177,13 @@
     }
   },
   "active": "40184a401e6d546a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Dolphins.mp4",
+    "Day out in Cornwall.canvas",
+    "seabedhabitats/README.md",
+    "seabedhabitats",
+    "VID-20250810-WA0002.mp4",
+    "MarineDiscovery.jpg",
+    "IMG-20250810-WA0052.jpg"
+  ]
 }
