@@ -169,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,12 +181,17 @@
   },
   "active": "40184a401e6d546a",
   "lastOpenFiles": [
+    "README.md",
+    "README.html",
+    "seabedhabitats/README.md",
+    "Dolphins.html",
+    "MarineDiscovery.html",
+    "seabedhabitats/README.html",
     "Day out in Cornwall.canvas",
+    "Day out in Cornwall.html",
     "index.html.md",
     "index.html.txt",
     "New Text Document.txt",
-    "seabedhabitats/README.md",
-    "README.md",
     "MarineDiscovery.jpg",
     "Dolphins.mp4",
     "seabedhabitats",
