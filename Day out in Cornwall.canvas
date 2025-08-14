@@ -6,8 +6,8 @@
 		{"id":"fa46ea93bc3ccc5e","type":"file","file":"Dolphins.mp4","x":-200,"y":280,"width":399,"height":225}
 	],
 	"edges":[
-		{"id":"7e19865333919e22","fromNode":"df33d4d082df9ff8","fromSide":"left","toNode":"1bd82e8a1b7f38bf","toSide":"left"},
 		{"id":"fc0a2cb68459f3f3","fromNode":"1bd82e8a1b7f38bf","fromSide":"bottom","toNode":"132d9b49c79d6d71","toSide":"top"},
-		{"id":"b6df34ae3e049524","fromNode":"132d9b49c79d6d71","fromSide":"bottom","toNode":"fa46ea93bc3ccc5e","toSide":"top"}
+		{"id":"b6df34ae3e049524","fromNode":"132d9b49c79d6d71","fromSide":"bottom","toNode":"fa46ea93bc3ccc5e","toSide":"top"},
+		{"id":"029845cf51b30968","fromNode":"df33d4d082df9ff8","fromSide":"bottom","toNode":"1bd82e8a1b7f38bf","toSide":"top"}
 	]
 }

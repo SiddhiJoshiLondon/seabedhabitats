@@ -11,10 +11,17 @@
             "id": "e70e61a5882a4a58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Day out in Cornwall.canvas",
+                "viewState": {
+                  "x": -25,
+                  "y": -16.54069767441868,
+                  "zoom": -0.22956407673870294
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day out in Cornwall"
             }
           }
         ]
@@ -177,6 +184,7 @@
   },
   "active": "e70e61a5882a4a58",
   "lastOpenFiles": [
+    "seabedhabitats/README.md",
     "Day out in Cornwall.canvas",
     "Day out in Cornwall.html",
     "index.html.md",
@@ -185,7 +193,6 @@
     "Dolphins.html",
     "index.html",
     "README.md",
-    "seabedhabitats/README.md",
     "seabedhabitats/README.html",
     "index.html.txt",
     "New Text Document.txt",
