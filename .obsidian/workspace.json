@@ -25,13 +25,20 @@
             }
           },
           {
-            "id": "ec212ba81c8cd9e6",
+            "id": "90304ad65af4f9ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Day out in Cornwall.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 72.5,
+                  "zoom": -0.225174862007775
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Day out in Cornwall"
             }
           }
         ],
@@ -193,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec212ba81c8cd9e6",
+  "active": "90304ad65af4f9ea",
   "lastOpenFiles": [
     "Day out in Cornwall.canvas",
     "seabedhabitats/README.md",
