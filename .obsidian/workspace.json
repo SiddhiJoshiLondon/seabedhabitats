@@ -11,14 +11,10 @@
             "id": "40184a401e6d546a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.html.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index.html"
+              "title": "New tab"
             }
           }
         ]
@@ -179,16 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40184a401e6d546a",
+  "active": "a4679d2a62c0d7f6",
   "lastOpenFiles": [
-    "README.md",
     "README.html",
-    "seabedhabitats/README.md",
-    "Dolphins.html",
     "MarineDiscovery.html",
+    "Dolphins.html",
+    "Day out in Cornwall.html",
+    "index.html",
+    "README.md",
+    "seabedhabitats/README.md",
     "seabedhabitats/README.html",
     "Day out in Cornwall.canvas",
-    "Day out in Cornwall.html",
     "index.html.md",
     "index.html.txt",
     "New Text Document.txt",
