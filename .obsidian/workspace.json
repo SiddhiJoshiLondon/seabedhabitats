@@ -11,17 +11,14 @@
             "id": "40184a401e6d546a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Day out in Cornwall.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 350,
-                  "zoom": -1.029665782207899
-                }
+                "file": "index.html.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Day out in Cornwall"
+              "icon": "lucide-file",
+              "title": "index.html"
             }
           }
         ]
@@ -181,14 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4679d2a62c0d7f6",
+  "active": "40184a401e6d546a",
   "lastOpenFiles": [
+    "Day out in Cornwall.canvas",
     "index.html.md",
     "index.html.txt",
     "New Text Document.txt",
     "seabedhabitats/README.md",
     "README.md",
-    "Day out in Cornwall.canvas",
     "MarineDiscovery.jpg",
     "Dolphins.mp4",
     "seabedhabitats",
