@@ -11,12 +11,14 @@
             "id": "40184a401e6d546a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "MarineDiscovery.jpg"
+                "aFile": "seabedhabitats",
+                "bFile": "seabedhabitats",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "MarineDiscovery"
+              "icon": "diff",
+              "title": "Diff: seabedhabitats"
             }
           }
         ]
@@ -178,12 +180,12 @@
   },
   "active": "40184a401e6d546a",
   "lastOpenFiles": [
+    "MarineDiscovery.jpg",
     "Dolphins.mp4",
     "Day out in Cornwall.canvas",
     "seabedhabitats/README.md",
     "seabedhabitats",
     "VID-20250810-WA0002.mp4",
-    "MarineDiscovery.jpg",
     "IMG-20250810-WA0052.jpg"
   ]
 }

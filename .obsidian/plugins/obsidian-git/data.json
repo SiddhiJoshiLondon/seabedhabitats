@@ -3,7 +3,7 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 10,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
@@ -22,7 +22,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
-  "differentIntervalCommitAndPush": false,
+  "differentIntervalCommitAndPush": true,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
@@ -35,10 +35,10 @@
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {
-    "show": false,
-    "followMovement": "inactive",
-    "authorDisplay": "initials",
-    "showCommitHash": false,
+    "show": true,
+    "followMovement": "all-commits",
+    "authorDisplay": "full",
+    "showCommitHash": true,
     "dateTimeFormatOptions": "date",
     "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
     "dateTimeTimezone": "viewer-local",
@@ -56,7 +56,7 @@
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
     "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
+    "lastShownAuthorDisplay": "full",
     "lastShownDateTimeFormatOptions": "date"
   }
 }
