@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eecc35e1d2c26ca2",
+        "id": "d5e0c5bc91ed50e4",
         "type": "tabs",
         "children": [
           {
-            "id": "40184a401e6d546a",
+            "id": "e70e61a5882a4a58",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,24 +175,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4679d2a62c0d7f6",
+  "active": "e70e61a5882a4a58",
   "lastOpenFiles": [
+    "Day out in Cornwall.canvas",
+    "Day out in Cornwall.html",
+    "index.html.md",
     "README.html",
     "MarineDiscovery.html",
     "Dolphins.html",
-    "Day out in Cornwall.html",
     "index.html",
     "README.md",
     "seabedhabitats/README.md",
     "seabedhabitats/README.html",
-    "Day out in Cornwall.canvas",
-    "index.html.md",
     "index.html.txt",
     "New Text Document.txt",
     "MarineDiscovery.jpg",
     "Dolphins.mp4",
     "seabedhabitats",
-    "VID-20250810-WA0002.mp4",
     "IMG-20250810-WA0052.jpg"
   ]
 }
